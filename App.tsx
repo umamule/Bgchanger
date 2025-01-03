@@ -37,9 +37,7 @@ function App(): JSX.Element {
           <Text style={styles.actionBtnTxt}>Press me</Text>
         </View>
       </TouchableOpacity>
-      
     </View>
-   
     </>
     );
 }
